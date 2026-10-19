@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-barcelona-events",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Barcelona Events MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c0070e90f6e9fb4fcef3716a0278b251b851f8390df384e164d7d9b1497ebbdb",
-    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
+    "sourceHash": "v1-9bcd7136542cb3ad69c178954bc9e386434c6c8649be62524813e1b1d74571ee",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
