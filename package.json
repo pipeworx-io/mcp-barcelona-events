@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-barcelona-events",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Barcelona Events MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "barcelona-events",
     "gatewaySlug": "barcelona-events",
-    "sourceHash": "v1-4a0bf2fe2c3fc766c5c3a32d8cdef49c5e792e19f828055885e876132eda2e6e",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-335410da84cd513bf428474f4e95023a43de6b8a34ff8d3a77320262e4405aae",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
